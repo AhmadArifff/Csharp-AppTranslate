@@ -1,0 +1,20 @@
+E:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 16\PROJECT UAS\bin\Debug\PROJECT UAS.exe.config
+E:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 16\PROJECT UAS\bin\Debug\PROJECT UAS.exe
+E:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 16\PROJECT UAS\bin\Debug\PROJECT UAS.pdb
+E:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 16\PROJECT UAS\obj\Debug\PROJECT_UAS.Form1.resources
+E:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 16\PROJECT UAS\obj\Debug\PROJECT_UAS.Properties.Resources.resources
+E:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 16\PROJECT UAS\obj\Debug\PROJECT UAS.csproj.GenerateResource.cache
+E:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 16\PROJECT UAS\obj\Debug\PROJECT UAS.csproj.CoreCompileInputs.cache
+E:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 16\PROJECT UAS\obj\Debug\PROJECT UAS.exe
+E:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 16\PROJECT UAS\obj\Debug\PROJECT UAS.pdb
+E:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 16\PROJECT UAS\obj\Debug\PROJECT UAS.csproj.AssemblyReference.cache
+E:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 16\Finally PROJECT UAS\bin\Debug\PROJECT UAS.exe.config
+E:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 16\Finally PROJECT UAS\bin\Debug\PROJECT UAS.exe
+E:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 16\Finally PROJECT UAS\bin\Debug\PROJECT UAS.pdb
+E:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 16\Finally PROJECT UAS\obj\Debug\PROJECT UAS.csproj.AssemblyReference.cache
+E:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 16\Finally PROJECT UAS\obj\Debug\PROJECT_UAS.Form1.resources
+E:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 16\Finally PROJECT UAS\obj\Debug\PROJECT_UAS.Properties.Resources.resources
+E:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 16\Finally PROJECT UAS\obj\Debug\PROJECT UAS.csproj.GenerateResource.cache
+E:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 16\Finally PROJECT UAS\obj\Debug\PROJECT UAS.csproj.CoreCompileInputs.cache
+E:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 16\Finally PROJECT UAS\obj\Debug\PROJECT UAS.exe
+E:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 16\Finally PROJECT UAS\obj\Debug\PROJECT UAS.pdb
